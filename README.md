@@ -4,10 +4,11 @@ My first repository
 >
 >“Preparation can only take you so far. After that, you have to take a few leaps of faith.” – Michael Scofield
 >
+>Main Characters
 <ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+  <li>Michael Scofield</li>
+  <li>Theodore "T-Bag" Bagwell</li>
+  <li>Dr. Sara Tancredi</li>
+  <li>Brad Bellick</li>
 </ol>
 
